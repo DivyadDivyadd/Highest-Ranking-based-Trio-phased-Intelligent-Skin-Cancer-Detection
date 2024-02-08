@@ -1,7 +1,6 @@
 import numpy as np
 from skimage.feature import greycomatrix, greycoprops
 
-# Get GLCM code from --> https://www.kaggle.com/code/jasonhuangcn/feature-extraction-glcm-1
 def GLCM(image,sol):
     # Specify the distances and angles for GLCM
     distances = [1, 2, sol[0].astype('int')]
