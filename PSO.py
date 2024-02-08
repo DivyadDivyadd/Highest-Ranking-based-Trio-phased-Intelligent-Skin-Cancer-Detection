@@ -1,3 +1,4 @@
+# Get the PSO Pseudocode from --> https://www.researchgate.net/figure/Pseudocode-of-standard-particle-swarm-optimization_fig1_323281605
 import numpy as np
 import random as rn
 import time
