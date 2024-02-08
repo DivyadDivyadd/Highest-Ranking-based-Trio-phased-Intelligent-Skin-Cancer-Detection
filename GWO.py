@@ -1,3 +1,4 @@
+# Get the GWO Pseudocode from --> https://www.researchgate.net/figure/Pseudo-code-of-improved-Grey-Wolf-Optimization-IGWO-algorithm_fig3_350143760
 import numpy as np
 
 def GWO(population,objective_function, search_space, population_size, iterations):
