@@ -1,3 +1,4 @@
+# Get this code from --> https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/
 import numpy as np
 import cv2 as cv
 from keras.applications import ResNet50
