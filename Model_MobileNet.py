@@ -1,3 +1,4 @@
+#Get this code from --> https://www.kaggle.com/code/anbarivan/transfer-learning-mobilenet-97-recall
 import cv2 as cv
 import numpy as np
 from PIL import Image
