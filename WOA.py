@@ -1,3 +1,4 @@
+# Get the WOA Pseudocode from --> https://www.geeksforgeeks.org/whale-optimization-algorithm-woa/
 import numpy as np
 import random as rn
 import math
