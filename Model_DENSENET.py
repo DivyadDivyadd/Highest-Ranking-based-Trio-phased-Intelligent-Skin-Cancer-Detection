@@ -1,3 +1,4 @@
+# Get this code from --> https://www.kaggle.com/code/sohaibanwaar1203/dense-net-image-classification
 import numpy as np
 from keras import backend as K
 from keras.layers import *
