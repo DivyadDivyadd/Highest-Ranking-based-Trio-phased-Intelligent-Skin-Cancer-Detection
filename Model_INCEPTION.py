@@ -1,3 +1,4 @@
+#Get this code from --> https://www.kaggle.com/code/yasserh/inception-v1-implementation
 import numpy as np
 from Evaluation import evaluation
 from inception_v3 import InceptionV3
