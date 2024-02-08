@@ -1,3 +1,4 @@
+#Get this code from --> https://www.kaggle.com/code/erelin6613/sample-deeplabv3-for-segmentation
 from keras.layers import *
 from keras.optimizers import Adam
 import random as rn
