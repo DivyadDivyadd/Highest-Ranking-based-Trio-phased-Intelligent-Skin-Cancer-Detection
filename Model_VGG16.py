@@ -1,3 +1,4 @@
+# Get this code from --> https://www.kaggle.com/code/blurredmachine/vggnet-16-architecture-a-complete-guide/notebook
 from keras.layers import MaxPool2D
 from keras.models import Sequential
 from keras.layers.core import Flatten, Dense
