@@ -1,5 +1,5 @@
+# Get the RDA Pseudocode from --> https://www.slideshare.net/Amirfard7/red-deer-algorithm-rda-81195074
 import time
-
 import numpy as np
 
 def RDA(population,objective_function, lb,ub, iterations):
